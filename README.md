@@ -34,10 +34,6 @@
   <a href="https://www.linkedin.com/in/antebilicc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
 </p>
 <hr></hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antebilicc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="antebilicc" /></p>
-
-<br clear="left"/>
-<hr></hr>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=4000&pause=1000&color=888888&center=true&vCenter=true&random=false&width=500&height=70&lines=%F0%9F%91%8B+Thanks+for+visiting!+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
