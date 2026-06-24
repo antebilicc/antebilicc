@@ -6,10 +6,10 @@
 
 <h3>👨‍💻 About Me:</h3>
 
-- 💻 Computer Science student at the University Department of Professional Studies, University of Split, Croatia
-- ⚡ Passionate about software engineering and cross-platform development
-- 📱 Currently focused on Flutter & Dart development
-- 📡 Interested in IoT systems and their integration with cross-platform applications
+- 💻 **Computer Science student** at the University Department of Professional Studies, University of Split, Croatia
+- ⚡ Passionate about **software engineering and cross-platform development**
+- 📱 Currently focused on **Flutter & Dart development**
+- 📡 Also interested in **IoT systems** and their integration with cross-platform applications
 
 ---
 
@@ -38,10 +38,10 @@
 
 ---
 
-<h3>📫 Contact:</h3>
+<h3>📫 Contact & Socials:</h3>
 
 <p align="center">
-  <a href="mailto:abili.poslovni@gmail.com">
+  <a href="mailto:abili.poslovni@gmail.com?subject=Hello&body=Hi%20Ante">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/antebilicc/">
