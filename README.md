@@ -4,12 +4,17 @@
 
 ---
 
-<h3>👨‍💻 About Me:</h3>
+ <h3>👨‍💻 About Me: </h3>
 
 - 💻 **Computer Science student** at the University Department of Professional Studies, University of Split, Croatia
 - ⚡ Passionate about **software engineering and cross-platform development**
 - 📱 Currently focused on **Flutter & Dart development**
 - 📡 Also interested in **IoT systems** and their integration with cross-platform applications
+
+
+
+<img src="https://komarev.com/ghpvc/?username=antebilicc&color=blue&style=for-the-badge&label=Profile+Views" />
+
 
 ---
 
